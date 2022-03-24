@@ -5,4 +5,4 @@
 3. Using the relevant time-series compute mean and standard deviation of the insample space. 
 4. Find the relevant standard deviation from which the stock prices tend to revert.
 5. Use the sample standard deviation to compute long and short position along with the relevant stop conditions for the outsample space
-6. Compute the return vactor and the sharpe ratio
+6. Compute the return vector and the sharpe ratio
